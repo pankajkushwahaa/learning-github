@@ -1,7 +1,7 @@
 def hello():
-    '''function 
-    to print hello
-    '''
-    return ("hello dosto")
+    """
+    THIS IS DEMO
+    """
+    return "hello dosto"
 
 hello()
