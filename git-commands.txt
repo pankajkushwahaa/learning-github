@@ -5,3 +5,7 @@ git add.
 git rm --cached <filename>
 git commit -m "msg"
 git restore
+git push origin main
+git remote add origin <link>
+git remote -v
+git remote set-url origin <link> 
