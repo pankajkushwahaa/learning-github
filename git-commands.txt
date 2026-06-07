@@ -9,3 +9,5 @@ git push origin main
 git remote add origin <link>
 git remote -v
 git remote set-url origin <link> 
+git clone <link>
+git pull
