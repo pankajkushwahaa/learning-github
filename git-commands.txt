@@ -16,4 +16,4 @@ git branch <new branch>
 git switch <branch>
 git log 
 git log --oneline
-
+git fetch 
