@@ -10,4 +10,10 @@ git remote add origin <link>
 git remote -v
 git remote set-url origin <link> 
 git clone <link>
-git pull
+git pull origin main
+git branch
+git branch <new branch>
+git switch <branch>
+git log 
+git log --oneline
+
